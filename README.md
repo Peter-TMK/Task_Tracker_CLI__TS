@@ -1,5 +1,9 @@
 # Task Tracker CLI (TypeScript)
 
+[Project URL](https://roadmap.sh/projects/task-tracker)
+
+https://roadmap.sh/projects/task-tracker
+
 A simple **Command Line Interface (CLI)** application for managing tasks built with **Node.js** and **TypeScript**. This CLI tool allows users to add, update, delete, and manage task statuses (`todo`, `in-progress`, `done`).
 
 ---
